@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/reactCaseLab/static/js/main.afae2dd7.chunk.js",
+    "main.js.map": "/reactCaseLab/static/js/main.afae2dd7.chunk.js.map",
+    "runtime-main.js": "/reactCaseLab/static/js/runtime-main.0aed07fa.js",
+    "runtime-main.js.map": "/reactCaseLab/static/js/runtime-main.0aed07fa.js.map",
+    "static/js/2.6b7333a4.chunk.js": "/reactCaseLab/static/js/2.6b7333a4.chunk.js",
+    "static/js/2.6b7333a4.chunk.js.map": "/reactCaseLab/static/js/2.6b7333a4.chunk.js.map",
+    "index.html": "/reactCaseLab/index.html",
+    "precache-manifest.892da4c5fcbbfdeabe43bbf789601c7e.js": "/reactCaseLab/precache-manifest.892da4c5fcbbfdeabe43bbf789601c7e.js",
+    "service-worker.js": "/reactCaseLab/service-worker.js",
+    "static/js/2.6b7333a4.chunk.js.LICENSE.txt": "/reactCaseLab/static/js/2.6b7333a4.chunk.js.LICENSE.txt",
+    "static/media/Kontur-Iconic-eco-20px.woff2": "/reactCaseLab/static/media/Kontur-Iconic-eco-20px.98878a7f.woff2",
+    "static/media/Kontur-Iconic-eco-20px.eot": "/reactCaseLab/static/media/Kontur-Iconic-eco-20px.b811ce6c.eot",
+    "static/media/Kontur-Iconic-eco-20px.woff": "/reactCaseLab/static/media/Kontur-Iconic-eco-20px.cc8e65cb.woff",
+    "static/media/fallback_circle.png": "/reactCaseLab/static/media/fallback_circle.7d850235.png",
+    "static/media/fallback_circle_big.png": "/reactCaseLab/static/media/fallback_circle_big.7890347b.png",
+    "static/media/fallback_circle_normal.png": "/reactCaseLab/static/media/fallback_circle_normal.dae3133e.png",
+    "static/media/font.woff2": "/reactCaseLab/static/media/font.7b359e7d.woff2",
+    "static/media/font.eot": "/reactCaseLab/static/media/font.dc62e0fc.eot",
+    "static/media/font.woff": "/reactCaseLab/static/media/font.f01e8d15.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aed07fa.js",
+    "static/js/2.6b7333a4.chunk.js",
+    "static/js/main.afae2dd7.chunk.js"
+  ]
+}
